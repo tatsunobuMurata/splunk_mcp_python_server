@@ -1,0 +1,9 @@
+# MCP Server
+mcp
+fastmcp
+
+# HTTP requests
+requests
+
+# Environment variables
+python-dotenv

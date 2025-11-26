@@ -1,0 +1,18 @@
+# Python venv
+venv/
+.venv/
+splunk/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Env files
+.env
